@@ -1,0 +1,14 @@
+.statList {
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+}
+
+.statItem p {
+   text-align: center;
+   font-size: 20px;
+}
+
+.statHeader {
+   text-transform: uppercase;
+}
